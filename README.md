@@ -6,9 +6,9 @@ For finding the R matrix for each position, I stored a P matrix for each vertex,
 
 ## Links to the starting lines of the implemenetation of the following features
 - [Build the L-matrix](src/arap.cpp#L180)
-- [Apply constraints](src/arap.cppL#246)
+- [Apply constraints](src/arap.cpp#L246)
 - [Precompute decomposition of L matrix](src/arap.cpp#L173)
-- [Determine best-fit rotations](src/arap.cppL#154)
+- [Determine best-fit rotations](src/arap.cpp#L154)
 - [Optimize the positions](src/arap.cpp#L277)
 
 ## Results
