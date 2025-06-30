@@ -1,0 +1,9 @@
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/arap.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/StaticGLEW.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/arap_other_files.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/arap_autogen_timestamp_deps.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/arap_autogen.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/StaticGLEW_autogen_timestamp_deps.dir
+/Users/rainergardner-olesen/Desktop/Spring_2025_Courses/Graphics/projects/arap-rgo125/build/build-arap-rgo125-Qt_6_5_3_for_macOS-Release/CMakeFiles/StaticGLEW_autogen.dir
