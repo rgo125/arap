@@ -13,9 +13,9 @@ For finding the R matrix for each position, I stored a P matrix for each vertex,
 
 ## Results
 
-![Alt Text](submission_vids/armadillo.mov)
-![Alt Text](submission_vids/sphere.mov)
-![Alt Text](submission_vids/bean.mov)
-![Alt Text](submission_vids/peter.mov)
-![Alt Text](submission_vids/teapot.mov)
-![Alt Text](submission_vids/tetrahedron.mov)
+![Alt Text](readme-videos/armadillo.gif)
+![Alt Text](readme-videos/sphere.gif)
+![Alt Text](readme-videos/bean.gif)
+![Alt Text](readme-videos/peter.gif)
+![Alt Text](readme-videos/teapot.gif)
+![Alt Text](readme-videos/tetrahedron.gif)
